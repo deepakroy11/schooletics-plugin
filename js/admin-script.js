@@ -1,5 +1,5 @@
 /**
- * Scholastic Core Admin Scripts
+ * schooletics Core Admin Scripts
  */
 
 jQuery(document).ready(function($) {

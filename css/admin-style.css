@@ -1,12 +1,12 @@
 /**
- * Scholastic Core Admin Styles
+ * schooletics Core Admin Styles
  */
 
-.scholastic-meta-box label {
+.schooletics-meta-box label {
     font-weight: bold;
 }
 
-.scholastic-meta-box .description {
+.schooletics-meta-box .description {
     font-style: italic;
     color: #666;
 }
