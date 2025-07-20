@@ -1,0 +1,12 @@
+/**
+ * Scholastic Core Admin Styles
+ */
+
+.scholastic-meta-box label {
+    font-weight: bold;
+}
+
+.scholastic-meta-box .description {
+    font-style: italic;
+    color: #666;
+}
